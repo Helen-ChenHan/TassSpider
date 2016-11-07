@@ -1,1 +1,3 @@
 # TassSpider
+
+scrapy crawl tass
